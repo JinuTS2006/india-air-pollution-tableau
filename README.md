@@ -173,12 +173,11 @@ The dashboard highlights important air-quality indicators including:
 
 ### Geographic & Seasonal Trends
 
-![Geographic & Seasonal Trends](screenshots/Geographical&Seasonal_Trends.png)
+![Geographic & Seasonal Trends](screenshots/geographic_seasonal_trends.png)
 
 ### Pollutant Science & City Rankings
 
-![Pollutant Science & City Rankings](screenshots/PollutantScience&cityRankings_.png)
-
+![Pollutant Science & City Rankings](screenshots/pollutant_science_city_rankings.png)
 ---
 
 ## 🛠️ Tools & Technologies
